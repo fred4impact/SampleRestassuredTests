@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+
+<suite name="RestBDD">
+<test name="restSuite">
+    <classes>
+        <class name="RestBDD.Testcases.TC00_Post_Record"/>
+    </classes>
+</test>
+
+</suite>
+
